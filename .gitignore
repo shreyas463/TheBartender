@@ -30,7 +30,9 @@ yarn-error.log
 .env.*.local
 .phpunit.result.cache
 storage/
-bootstrap/cache/
+bootstrap/cache/*
+!bootstrap/cache/.gitkeep
+
 public/storage/
 public/hot
 public/mix-manifest.json
