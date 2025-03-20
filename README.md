@@ -11,6 +11,8 @@ TheBartender is a modern web application for discovering and exploring cocktail 
 - **Database**: MySQL
 - **External API**: TheCocktailDB API
 
+![Thebartender](https://github.com/user-attachments/assets/57db0e1a-ef3b-4576-bc31-a7a321ad0068)
+
 ## Folder Structure
 
 - **frontend/**: Contains the client-side application.
